@@ -1,1 +1,1 @@
-This is MovieFLix readme ..more to come
+**This is MovieFlix readme ..more to come**
